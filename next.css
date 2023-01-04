@@ -8,7 +8,7 @@
     .header{
         width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url(my-best-casette-playlist-5k-za-1360x768.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url(guitar-playing-acoustic-guitar-watercolor-painting-wallpaper-preview.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -80,10 +80,20 @@
     margin-top: 30px;
     margin-bottom: 20px;
     }
+ 
+    #hello{
+        text-align: center;
+
+    }
 
     .container{
-        color: black;
+        color: lightgoldenrodyellow;
         text-align: center;
         text-decoration: wavy;
-         font: oblique;
+         font: bolder;
+         text-decoration-line:initial;
+         font-size: 25px;
     }
+    
+
+    
